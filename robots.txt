@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kaguisma.github.io/sitemap
+Sitemap: https://kaguisma.github.io/app/sitemap
+Sitemap: https://kaguisma.github.io/assets/sitemap
+Sitemap: https://kaguisma.github.io/css/sitemap
+Sitemap: https://kaguisma.github.io/includes/sitemap
+Sitemap: https://kaguisma.github.io/item/sitemap
+Sitemap: https://kaguisma.github.io/src/sitemap
